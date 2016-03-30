@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: #A0A0A0;
+}
+
+.well {
+  
+}
+
+#online-well {
+  background-color: #40B16E;
+  color: #E8E8E8 ;
+}
+
+#offline-well {
+  background-color: #3F799E;
+  color: #F0F0F0;
+}
+
+#closed-well {
+  background-color: #E05433;
+  color: #E0E0E0  ;
+}
+
+.status {
+  text-align: right;
+  font-size: 120%;
+}
+
+.description {
+  text-align: center;
+  font-size: 120%;
+}
+
+.name {
+  text-align: left;
+  font-size: 140%;
+}
+
+a {
+  color: #E8E8E8;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
